@@ -2,9 +2,10 @@
  * SSD1306 OLED Screen Font
  * @author skitsanos
  * @version 1.0
- * 
+ *
  * Font name: Segoe_UI11x11
  * Font grid size: 11x11
+ * Font range: 32-127
  */
 
 #include <stdint.h>
