@@ -8,6 +8,7 @@
 - [x] wifi esp-now
 
 - [ ] ntp services
+  - [x] ntp_check_time
   - [x] ntp_get_datetime
   - [x] task_get_datetime
 
