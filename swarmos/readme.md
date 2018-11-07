@@ -22,7 +22,8 @@
 - [x] screen_set_default_font
 - [x] screen_set_font
 - [x] screen_print_centered
-- [X] screen_print_anchored
+- [x] screen_print_anchored
+- [ ] screen_print_scrolled
 - [x] screen_print_at_pos
 - [x] screen_draw_line
 - [x] screen_draw_line_h
@@ -35,4 +36,5 @@
 - [x] screen_draw_rect_rounded
 - [x] screen_draw_progressbar
 - [x] screen_draw_network_icon
+- [ ] screen_scroll_v
 - [x] task_screen_init
