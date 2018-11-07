@@ -6,7 +6,11 @@
 - [x] wifi STA mode
 - [x] wifi APSTA mode
 - [x] wifi esp-now
-- [x] ntp services
+
+- [ ] ntp services
+  - [x] ntp_get_datetime
+  - [x] task_get_datetime
+
 
 ### Screen
 
