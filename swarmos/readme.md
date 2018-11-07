@@ -11,6 +11,8 @@
   - [x] ntp_check_time
   - [x] ntp_get_datetime
   - [x] task_get_datetime
+- [ ] dns
+  - [x] dns_check
 
 
 ### Screen
