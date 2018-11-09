@@ -14,6 +14,9 @@
 - [ ] dns
   - [x] dns_check
 
+- [x] http
+  - [x] task_http_get
+  - [x] task_http_device_api_ping
 
 ### Screen
 
@@ -45,3 +48,8 @@
 - [x] screen_draw_network_icon
 - [ ] screen_scroll_v
 - [x] task_screen_init
+
+### Sensors
+
+- [x] Core
+  - [x] task_read_internal_sensors
