@@ -1,6 +1,17 @@
 # swarm-os
 
-Last build: swarmos v.1.0.20181109, ld-node 3
+|   Last build    | v.1.0.20181109, ld-node 3         |
+|----------------:|:----------------------------------|
+| ESP-IDF version |ESP-IDF v3.2-dev-1175-g11b444b8f   |
+| Tested boards   |Doit ESP32 Devkit 1.0 (ESP32D0WDQ6)|
+||[Wemos ESP32+OLED](https://www.aliexpress.com/item/Lolin-ESP32-OLED-wemos-for-Arduino-ESP32-OLED-WiFi-Modules-Bluetooth-Dual-ESP-32-ESP-32S/32807531243.html)|
+||[Wemos](https://www.aliexpress.com/item/ESP32-wemos-ESP32-WiFi-Modules-Bluetooth-Dual-ESP-32-ESP-32S-ESP8266/32817523724.html)|
+||[Le Xin ESP32](https://www.aliexpress.com/item/Lolin-ESP32-OLED-V2-0-Pro-ESP32-OLED-wemos-pour-Arduino-ESP32-OLED-WiFi-Modules-Bluetooth/32824819112.html)
+||Widora Air v.5|
+||[TTGO ESP32+18650](https://www.aliexpress.com/item/TTGO-WiFi-Bluetooth-Module-18650-Battery-Holder-Seat-2A-Fuse-ESP32-4MB-SPI-Flash-Oct30-Drop/32951284716.html)|
+||[TTGO ESP32+Lora+GPS](https://www.aliexpress.com/item/For-T-Beam-ESP32-868-915Mhz-WiFi-Wireless-Bluetooth-Module-GPS-NEO-6M-SMA-LORA-Board/32951848698.html)|
+||[TTGO T7 ESP32 Pico-D4](https://www.aliexpress.com/item/TTGO-T7-ESP32-Module-PICO-D4-4MB-SPI-Flash-development-board/32841749492.html7)|
+||[ESP32-CAM WiFi](https://www.aliexpress.com/item/ESP32-CAM-WiFi-Bluetooth-Module-Camera-Module-Development-Board-ESP32-with-Camera-Module-OV2640-2MP/32919183232.html)|
 
 ### Networking
 
