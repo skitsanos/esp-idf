@@ -1,5 +1,7 @@
 # swarm-os
 
+Last build: swarmos v.1.0.20181109, ld-node 3
+
 ### Networking
 
 - [x] wifi AP mode
