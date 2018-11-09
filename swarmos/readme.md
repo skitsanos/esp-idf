@@ -66,3 +66,5 @@
 
 - [x] Core
   - [x] task_read_internal_sensors
+- [x] Bosch
+  -[x] BME-280
