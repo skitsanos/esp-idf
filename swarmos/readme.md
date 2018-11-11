@@ -12,6 +12,7 @@
 ||[TTGO ESP32+Lora+GPS](https://www.aliexpress.com/item/For-T-Beam-ESP32-868-915Mhz-WiFi-Wireless-Bluetooth-Module-GPS-NEO-6M-SMA-LORA-Board/32951848698.html)|
 ||[TTGO T7 ESP32 Pico-D4](https://www.aliexpress.com/item/TTGO-T7-ESP32-Module-PICO-D4-4MB-SPI-Flash-development-board/32841749492.html7)|
 ||[ESP32-CAM WiFi](https://www.aliexpress.com/item/ESP32-CAM-WiFi-Bluetooth-Module-Camera-Module-Development-Board-ESP32-with-Camera-Module-OV2640-2MP/32919183232.html)|
+||[TTGO Mini32 v.2.0](https://www.aliexpress.com/item/TTGO-MINI32-V2-0-ESP32-rev1-rev-one-WiFi-Bluetooth-Module-For-D1-mini/32845357819.html)|
 
 ### Networking
 
