@@ -63,6 +63,23 @@
 - [ ] screen_scroll_v
 - [x] task_screen_init
 
+### Utilities
+
+- [x] data_router_send
+
+- [x] str_builder
+  - [x] str_builder_create
+  - [x] str_builder_destroy
+  - [x] str_builder_clear
+  - [x] str_builder_truncate
+  - [x] str_builder_add_str
+  - [x] str_builder_add_char
+  - [x] str_builder_add_int
+  - [x] str_builder_drop
+  - [x] str_builder_len
+  - [x] str_builder_peek
+  - [x] str_builder_dump
+
 ### Sensors
 
 - [x] Core
