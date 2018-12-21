@@ -13,6 +13,8 @@
 
 #include "../utils/str_builder.h"
 
+#include "core.h"
+
 static const char *TAG_SYSTEM = "system";
 
 extern uint8_t temprature_sens_read();
@@ -21,10 +23,8 @@ extern uint32_t hall_sens_read();
 
 void task_read_internal_sensors(void *ignore)
 {
-    uint8_t temp = temprature_sens_read();
-    uint32_t hall_sensor = hall_sens_read();
-
-    float celsius = (float) ((temp - 32) / 1.8);
+    float celsius = esp_deviceTemperature();
+    uint32_t hall_sensor = esp_deviceHall();
 
     ESP_LOGI(TAG_SYSTEM, "Core temperature sensor: %.2f degC", celsius);
     ESP_LOGI(TAG_SYSTEM, "Core hall sensor: %d", hall_sensor);
@@ -32,7 +32,7 @@ void task_read_internal_sensors(void *ignore)
     vTaskDelete(NULL);
 }
 
-char *esp_deviceMac()
+char *esp_deviceMAC()
 {
     uint8_t sta_mac[6];
     esp_efuse_mac_get_default(sta_mac);
