@@ -84,7 +84,7 @@
 
 - [x] Core
   - [x] task_read_internal_sensors
-  - [x] esp_deviceMac
+  - [x] esp_deviceMAC
   - [x] esp_deviceTemperature
   - [x] esp_deviceHall
   
